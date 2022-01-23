@@ -1,0 +1,120 @@
+Report created: 
+	19/02/2013	15:11:07
+
+Project name: COLORIZER.aep
+
+Source files collected to: 
+	D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\FINAL PROJECT\COLORIZER
+
+Source files collected: All
+
+Collected comps:  
+	00_YOUR FOOTAGE
+	INDIE FILM LOOK
+	SUMMER DREAM
+	SECURITY CAMERA
+	WARM NOSTALGIA
+	MEMORIES
+	OLD FILM LOOK
+	INK
+	FINAL SCRIBBLE
+	OLD PAPER
+	FINAL SCRIBBLE MATTE
+	ELEMENTS
+	FINAL FILM BURN
+	FINAL TEXTURES
+	ELEMENTS HD 720
+	INDIE FILM LOOK HD 720
+	MEMORIES HD 720
+	OLD FILM LOOK HD 720
+	OLD PAPER HD 720
+	SECURITY CAMERA HD 720
+	SUMMER DREAM HD 720
+	WARM NOSTALGIA HD 720
+	ELEMENTS NTSC
+	INDIE FILM LOOK NTSC
+	MEMORIES NTSC
+	OLD FILM LOOK NTSC
+	OLD PAPER NTSC
+	SECURITY CAMERA NTSC
+	SUMMER DREAM NTSC
+	WARM NOSTALGIA NTSC
+	ELEMENTS PAL D1/DV
+	INDIE FILM LOOK PAL D1/DV
+	MEMORIES PAL D1/DV
+	OLD FILM LOOK PAL D1/DV
+	OLD PAPER PAL D1/DV
+	SECURITY CAMERA PAL D1/DV
+	SUMMER DREAM PAL D1/DV
+	WARM NOSTALGIA PAL D1/DV
+	
+Number of collected files:  2999
+
+Size of collected files:  141 MB
+
+Collected source files: 
+	D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\BITMAPS\BG PAPPER.jpg
+	D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\BITMAPS\FRAME 03.jpg
+	D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\BITMAPS\SECURITY CAM TEXTURE.psd
+	Sequence "FILM BURN_[00000-00601].jpg" at D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\FOOTAGES\FILM_BURN with 602 files and 0 auxiliary files
+	Sequence "FILM DAMAGE_[00000-00301].jpg" at D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\FOOTAGES\FILM_DAMAGE with 302 files and 0 auxiliary files
+	Sequence "FILM DUST_[00000-00301].jpg" at D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\FOOTAGES\FILM_DUST with 302 files and 0 auxiliary files
+	Sequence "FILM TEXTURES_[00000-00902].jpg" at D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\FOOTAGES\FILM_TEXTURE with 903 files and 0 auxiliary files
+	Sequence "LIGHT LEAKS_[00000-00886].jpg" at D:\00_VIDEO\00_BLUEFX\00_VINTAGE COLORS\00_DELIVERY\PROJECT\COLORIZER folder\(Footage)\OTHER COMPS\FOOTAGES\LIGHT_LEAKS with 887 files and 0 auxiliary files
+	
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  25
+
+Effect:  Color Balance
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Directional Blur
+	
+Effect:  Emboss
+	
+Effect:  Exposure
+	
+Effect:  Fast Blur
+	
+Effect:  Fill
+	
+Effect:  Fractal Noise
+	
+Effect:  Gaussian Blur
+	
+Effect:  Glow
+	
+Effect:  Hue/Saturation
+	
+Effect:  Invert
+	
+Effect:  Levels
+	
+Effect:  Levels (Individual Controls)
+	
+Effect:  Noise
+	
+Effect:  Photo Filter
+	
+Effect:  Posterize
+	
+Effect:  Scribble
+	
+Effect:  Set Matte
+	
+Effect:  Sharpen
+	
+Effect:  Stroke
+	
+Effect:  Timecode
+	
+Effect:  Tint
+	
+Effect:  Tritone
+	
+
